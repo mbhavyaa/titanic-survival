@@ -1,7 +1,7 @@
 # titanic-survival
 
 
-This project predicts the survival of passengers aboard the Titanic using machine learning models. It is based on the famous [Kaggle Titanic dataset](https://www.kaggle.com/c/titanic).
+This project predicts the survival of passengers aboard the Titanic using machine learning models.
 
 ---
 
